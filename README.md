@@ -1,3 +1,4 @@
 # my-demo
 This is my first Git Repository.
-Author - Mudssir Mamtule
+<br>
+**Author** - Mudssir Mamtule.
